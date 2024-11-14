@@ -1,0 +1,24 @@
+body {
+  width: 550px;
+  margin: 0;
+  padding: 0;
+}
+
+.container img {
+  margin: 20px;
+  border-radius: 110px;
+  }  
+  .circle-red {
+  box-shadow: 0 0 60px #ff0000;
+  }  
+
+  .circle-blue {
+  box-shadow: 0 0 60px #1e90ff;
+  }
+
+  .circle-yellow {
+  box-shadow: 0 0 60px #ffff00;
+  }
+  .circle-grey{
+  box-shadow: 0 0 60px #708090;
+  } 
