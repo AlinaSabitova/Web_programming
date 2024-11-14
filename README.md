@@ -5,6 +5,10 @@
 [index](/index1_1.html)
 
 ### Задание 2:
+[index](/index1_2.html)
+
+### Задание 3:
+[index](/index1_3.html)
 
 ## Лабараторная работа №2
 
